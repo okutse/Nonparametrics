@@ -1,0 +1,4 @@
+## Under models
+We run two anlyses. The first includes all covariates in the adjustment whereas the second excludes X1 from the adjustment.
+
+Each folder under models thus has two files corresponding to each model
